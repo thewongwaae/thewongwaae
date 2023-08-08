@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, I am <i>Wong Hong You</i>
 
-<!--
-**thewongwaae/thewongwaae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:raising_hand: I am a developer interested in solving problems with some engineering and code, and currently a student enrolled in <b>42 Kuala Lumpur</b>.
 
-Here are some ideas to get you started:
+:book: I enjoy reading about news related to advancements in technology, and I am always looking to <b>learn new things</b>. While I'm slowly picking up Svelte and TailwindCSS, I am also planning to dabbling more into <b>machine learning</b> and <b>artificial intelligence</b> in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:guitar: Outside the world of tech, I enjoy playing the <b>guitar</b> and listening to calming classical music while <b>reading</b>. <b>Swimming</b> is my favourite sport :swimmer:. I love visiting live <b>orchestra</b> performances :violin:
+
+:video_game: I am an avid gamer too! My favourite video game series has to be <b>Metal Gear Solid</b>
+
+
+#### :computer: Skills
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="50" height="50"/> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="50" height="50"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="50" height="50"/> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" width="50" height="50"/> <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="vuejs" width="50" height="50"/> <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="svelte" width="50" height="50"/> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="50" height="50"/> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpp" width="50" height="50"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="50" height="50"/> <a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="android" width="50" height="50"/> <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="50" height="50"/> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" width="50" height="50"/> <a href="https://azure.microsoft.com/en-us/free/search/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="azure" width="50" height="50"/>
+
+#### :hammer: Workstation
+![i5-11th-gen](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+#### :mailbox: Contact me
+[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hong-you-wong-65454a283/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:wonghongyou@gmail.com)
+
+#### :chart_with_upwards_trend: Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewongwaae&layout=compact&theme=transparent) [![Hong You's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewongwaae&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
