@@ -1,8 +1,8 @@
 ## Hello, I am <i>Wong Hong You</i>
 
-:raising_hand: I am a developer interested in solving problems with some engineering and code, and currently a student enrolled in <b>42 Kuala Lumpur</b>.
+:raising_hand: I am a developer interested in solving problems with some engineering and code, currently a student enrolled in <b>42 Kuala Lumpur</b>.
 
-:book: I enjoy reading about news related to advancements in technology, and I am always looking to <b>learn new things</b>. While I'm slowly picking up Svelte and TailwindCSS, I am also planning to dabbling more into <b>machine learning</b> and <b>artificial intelligence</b> in the future.
+:book: I enjoy reading about news related to advancements in technology, and I am always looking to <b>learn new things</b>. While I'm slowly picking up Svelte and TailwindCSS, I also plan to learn more about <b>machine learning</b> and <b>artificial intelligence</b> in the future.
 
 :guitar: Outside the world of tech, I enjoy playing the <b>guitar</b> and listening to calming classical music while <b>reading</b>. <b>Swimming</b> is my favourite sport :swimmer:. I love visiting live <b>orchestra</b> performances :violin:
 
